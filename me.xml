@@ -1,4 +1,19 @@
-<ism> Zafarbek</ism>
-<sharif> Ne'matullayev </sharif>
-<nomi> School 41 </nomi>
-<sinf> 11-sinf </sinf>
+
+<user>
+   <name> Zafarbek</name>
+   <lastname> Ne'matullayev </lastname>
+   <education>
+    <education type="university">
+   </education>
+   <education>
+      <name> School 41 </name>
+      <classs> 11-sinf </class>
+   </education>
+</user>
+
+<bestfriend>
+    <name>Elyor</name>
+    <lastname>Shuxratov</lastname>
+     <education>ko'k kollej</education>
+      <group>16-24</group>
+</bestfriend>
