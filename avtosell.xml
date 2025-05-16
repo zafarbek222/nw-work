@@ -1,0 +1,28 @@
+<data>
+    <cars>
+        <car type1="cobalt chevrolet">
+            <prise>12000$</prise>
+            <color>white</color>
+        </car>
+        <car id="ravon">
+            <prise>10000$</prise>
+            <color>teal</color>
+        </car>
+        <car type2="malibu">
+            <prise>30000$</prise>
+            <color>black</color>
+        </car>
+        <car id="turbo">
+            <prise>35000$</prise>
+            <color>white</color>
+        </car>
+        <car type3="matiz mix">
+            <prise>1000$</prise>
+            <color>black</color>
+        </car>
+        <car id="best">
+            <prise>1100$</prise>
+            <color>teal</color>
+        </car>
+    </cars>
+</data>
